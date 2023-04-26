@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+
+:root{
+    --bg-color: #fff;
+    --main-color: #014764;
+    --text-color: #000000;
+    --2nd-color: #edad20;
+    --other-color: #f70c9d;
+}
+
+h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #00344a;
+}
+
+h6{
+    font-size: 1.1rem;
+    color: #00344a;
+}
+
+body{
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    background: var(--bg-color);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+    transition: all .50s ease;
+}
+
+#logo {
+    width: 100px;
+    height: auto;
+}
+
+.navbar{
+    display: flex;  
+}
+
+.navbar a{
+    color: var(--main-color);
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 25px;
+    transition: all .50s ease;
+}
+
+.navbar a:hover{
+    color: var(--other-color);
+}
+
+.header-icons{
+    display: flex;
+    align-items: center;
+}
+
+.header-icons i{
+    font-size: 25px;
+    color: var(--main-color);
+    margin-left: 5px;
+    margin-right: 20px;
+    transition: all .50s ease;
+}
+
+.header-icons i:hover{
+    transform: translateY(-4px);
+    color: var(--main-color);
+}
+
+#menu-icon{
+    width: 30px;
+    height: auto;
+    background: #014764;
+    color: var(--bg-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    border-radius: 50%;
+    z-index: 1000;
+    cursor: pointer;
+    display: none;
+}
+
+section{
+    padding: 60px 14% 70px;
+}
+
+#home{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.home-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.home-text h1{
+
+}
