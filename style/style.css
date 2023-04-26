@@ -162,3 +162,64 @@ section{
 .btn:hover{
     background: var(--main-color);
 }
+
+/*about section styling*/
+.about{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(17rem, auto));
+    align-items: center;
+    gap: 1.5rem;
+    text-align: justify;
+}
+
+.about-img img{
+    border-radius: 0.5rem;
+    width: 300px;
+    height: 300;
+}
+
+.about-content h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: var(--main-color);
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+}
+
+.bx i {
+    color: var(--2nd-color);
+    font-size: 20px;
+}
+
+.about-content > .box-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+}
+
+.about-content > .box-container > .box {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-content > .box-container > .box-1 {
+    grid-column: 1 / span 2;
+}
+
+.about-content > .box-container > .box > h3 {
+    margin-top: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.about-content > .box-container > .box > p {
+    margin-top: 0;
+}
+
+/*about styling completed*/
+
+
+
+
+
