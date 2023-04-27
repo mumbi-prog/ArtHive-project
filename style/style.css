@@ -190,17 +190,22 @@ section{
     padding: 0;
     letter-spacing: 2px;
     text-align: center;
-  }
+}
+
+.about h2:hover{
+    text-decoration: underline;
+    text-decoration-color: var(--other-color);
+}
   
-  .about-content {
+.about-content {
     display: grid;
     grid-template-columns: repeat(2, minmax(17rem, auto));
     align-items: center;
     gap: 1.5rem;
     text-align: justify;
-  }
+}
 
-  .about-img img {
+.about-img img {
     width: 350px;
     height: 420px;
     justify-self: center;
@@ -214,10 +219,6 @@ section{
     margin: 0;
     padding: 0;
   }
-.about h2:hover{
-    text-decoration: underline;
-    text-decoration-color: var(--other-color);
-}
 
 .box-container i{
     color: var(--2nd-color);
@@ -251,7 +252,90 @@ section{
 }
 
 /*about styling completed*/
+
 /*art vault*/
+.art-vault h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: var(--main-color);
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.art-vault h2:hover{
+    text-decoration: underline;
+    text-decoration-color: var(--other-color);
+}
+
+.art-vault p{
+    text-align: center;
+    font-size: 14px;
+}
+
+.art-pieces {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .art .category {
+    flex-basis: 33%;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .art .category img {
+    width: 350px;
+    height: auto;
+  }
+  
+  .art .category h3 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .category {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .category {
+    flex-basis: 25%;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .category img {
+    width: 80%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .art-category {
+      flex-basis: 50%;
+    }
+  
+    .art-image {
+      flex-basis: 50%;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .art-category {
+      flex-basis: 100%;
+    }
+  
+    .art-image {
+      flex-basis: 50%;
+    }
+  }
+
 /*contact us styling*/
 .contact-container {
     text-align: center;
@@ -268,6 +352,11 @@ section{
     padding: 0;
     letter-spacing: 2px;
     text-align: center;
+}
+
+.contact-container h2:hover{
+    text-decoration: underline;
+    text-decoration-color: var(--other-color);
 }
   
 .row {
