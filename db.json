@@ -122,6 +122,129 @@
                     "description": "Long walk home"
                 }
             ]
+        },
+        {
+            "name": "Paintings",
+            "image": "..images/paintings/cherries.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Cherries",
+                    "artist": "Davis Junior",
+                    "image": "..images/paintings/marble.jpg",
+                    "description": "These are cherries"
+                },
+                {
+                    "id": 2,
+                    "title": "Lamar",
+                    "artist": "Davis Junior",
+                    "image": "..images/paintings/lamar.jpg",
+                    "description": "Lamar and flowers"
+                },
+                {
+                    "id": 3,
+                    "title": "Panther",
+                    "artist": "Davis Junior",
+                    "image": "..images/paintings/panther.jpg",
+                    "description": "This is a black panther"
+                },
+                {
+                    "id": 4,
+                    "title": "Dark",
+                    "artist": "Clide Orai",
+                    "image": "..images/paintings/dark.jpg",
+                    "description": "Black elite"
+                },
+                {
+                    "id": 5,
+                    "title": "Girl",
+                    "artist": "Davis Junior",
+                    "image": "..images/paintings/girl.jpg",
+                    "description": "Girl and bird"
+                }
+            ]
+        },
+        {
+            "name": "Photography",
+            "image": "..images/photography/doves.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Coltrane",
+                    "artist": "Penn Bradley",
+                    "image": "..images/photography/coltrane.jpg",
+                    "description": "The legend Coltrane"
+                },
+                {
+                    "id": 2,
+                    "title": "Hands",
+                    "artist": "Penn Bradley",
+                    "image": "..images/photography/hands.jpg",
+                    "description": "These are hands"
+                },
+                {
+                    "id": 3,
+                    "title": "Child",
+                    "artist": "Davis Junior",
+                    "image": "..images/photography/cute.jpg",
+                    "description": "Eyes that tell a story"
+                },
+                {
+                    "id": 4,
+                    "title": "Old couple",
+                    "artist": "Clide Orai",
+                    "image": "..images/photography/old.jpg",
+                    "description": "Black and old"
+                },
+                {
+                    "id": 5,
+                    "title": "Races",
+                    "artist": "Clementine Arua",
+                    "image": "..images/photography/opp.jpg",
+                    "description": "Different but one"
+                }
+            ]
+        },
+        {
+            "name": "Sculptures",
+            "image": "..images/sculptures/kids.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Chess",
+                    "artist": "Denise Sofia",
+                    "image": "..images/sculptures/black.jpg",
+                    "description": "Black court"
+                },
+                {
+                    "id": 2,
+                    "title": "Spiral",
+                    "artist": "Davis Junior",
+                    "image": "..images/sculptures/circle.jpg",
+                    "description": "Spiral Sulpture"
+                },
+                {
+                    "id": 3,
+                    "title": "Vase",
+                    "artist": "Fredrick Koech",
+                    "image": "..images/sculptures/vase.jpg",
+                    "description": "This is a vase"
+                },
+                {
+                    "id": 4,
+                    "title": "Overthinking",
+                    "artist": "Terry Mukami",
+                    "image": "..images/sculptures/think.jpg",
+                    "description": "The thinking thinker"
+                },
+                {
+                    "id": 5,
+                    "title": "Pink Aphrodite",
+                    "artist": "Leila",
+                    "image": "..images/sculptures/aphrodite.jpg",
+                    "description": "The Goddess Aphrodite"
+                }
+            ]
         }
     ],
 
