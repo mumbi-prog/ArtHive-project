@@ -34,6 +34,27 @@
         {
             
         }
-    ]
+    ],
+
+    "reviews": [
+        {
+          "id": 1,
+          "name": "John",
+          "comment": "This is a great product!",
+          "rating": 5
+        },
+        {
+          "id": 2,
+          "name": "Jane",
+          "comment": "I am very satisfied with this product.",
+          "rating": 4
+        },
+        {
+          "id": 3,
+          "name": "Bob",
+          "comment": "This product could be improved.",
+          "rating": 3
+        }
+      ]
 
 }
