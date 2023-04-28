@@ -1,4 +1,3 @@
-// get references to the form and input fields
 const form = document.querySelector('form');
 const nameInput = document.querySelector('#name-input');
 const emailInput = document.querySelector('#email-input');
@@ -18,9 +17,8 @@ form.addEventListener('submit', (event) => {
   };
 
   console.log('submit event triggered');
-
   // API call to send form data
-  fetch('http://localhost:3000', {
+  fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/messages', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -29,8 +27,8 @@ form.addEventListener('submit', (event) => {
   })
   .then(response => response.json())
   .then(data => {
-    console.log('Success:', data);
-    form.reset(); //Message sent, yay:)
+    console.log('Success:', data); //Message sent, yay:)
+    form.reset(); 
     console.log('Form reset', data);
   })
   .catch((error) => {
