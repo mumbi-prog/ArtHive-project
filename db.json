@@ -1,7 +1,127 @@
-{
-    "sculptures": [
+{   
+    "categories": [
         {
-            
+            "name": "Digital Art",
+            "image": "..images/digital/hands.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Parrot",
+                    "artist": "John Smith",
+                    "image": "..images/digital/parrots.jpg",
+                    "description": "A beautiful green parrot."
+                },
+                {
+                    "id": 2,
+                    "title": "Donald Duck",
+                    "artist": "Ann Kuria",
+                    "image": "..images/digital/donaldduck.jpg",
+                    "description": "Donald Duck monied"
+                },
+                {
+                    "id": 3,
+                    "title": "Marshmallow",
+                    "artist": "John Smith",
+                    "image": "..images/digital/marshmallow.jpg",
+                    "description": "Black girl marshmallow hair"
+                },
+                {
+                    "id": 4,
+                    "title": "Starry Night",
+                    "artist": "Clide Orai",
+                    "image": "..images/digital/starrynight.jpg",
+                    "description": "Blue night and yellow stars"
+                },
+                {
+                    "id": 5,
+                    "title": "Mushrooms",
+                    "artist": "John Smith",
+                    "image": "..images/digital/shrooms.jpg",
+                    "description": "Big mushrooms"
+                }
+            ]
+        },
+        {
+            "name": "Drawings",
+            "image": "..images/drawings/heal.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Enam",
+                    "artist": "Enam",
+                    "image": "..images/drawings/enam.jpg",
+                    "description": "Enam ballpoint art"
+                },
+                {
+                    "id": 2,
+                    "title": "Tiger",
+                    "artist": "Jackson Matubia",
+                    "image": "..images/drawings/tiger.jpg",
+                    "description": "Enam ballpoint art"
+                },
+                {
+                    "id": 3,
+                    "title": "Train",
+                    "artist": "Jackson Matubia",
+                    "image": "..images/drawings/train.jpg",
+                    "description": "Enam ballpoint art"
+                },
+                {
+                    "id": 4,
+                    "title": "Enam",
+                    "artist": "Enam",
+                    "image": "..images/drawings/enam.jpg",
+                    "description": "Enam ballpoint art"
+                },
+                {
+                    "id": 5,
+                    "title": "Tortoise",
+                    "artist": "Jackson Matubia",
+                    "image": "..images/drawings/enam.jpg",
+                    "description": "This is a tortoise art"
+                }
+            ]
+        },
+        {
+            "name": "Afrocentric Art",
+            "image": "..images/afrocentric/passionofart.jpg",
+            "artItems": [
+                {
+                    "id": 1,
+                    "title": "Beauty",
+                    "artist": "Laki Naima",
+                    "image": "..images/afrocentric/beauty.jpg",
+                    "description": "This is beauty right here"
+                },
+                {
+                    "id": 2,
+                    "title": "Africa",
+                    "artist": "Laki Naima",
+                    "image": "..images/afrocentric/africa.jpg",
+                    "description": "Beauty of Africa"
+                },
+                {
+                    "id": 3,
+                    "title": "Blue",
+                    "artist": "Laki Njenga",
+                    "image": "..images/afrocentric/blue.jpg",
+                    "description": "Times can be blue"
+                },
+                {
+                    "id": 4,
+                    "title": "Wildlife",
+                    "artist": "Suzanna",
+                    "image": "..images/afrocentric/sunset.jpg",
+                    "description": "Animals in the sunset"
+                },
+                {
+                    "id": 5,
+                    "title": "Walk",
+                    "artist": "Suzanna",
+                    "image": "..images/afrocentric/walk.jpg",
+                    "description": "Long walk home"
+                }
+            ]
         }
     ],
 
@@ -20,7 +140,7 @@
         },
         {
           "id": 3,
-          "name": "Bob",
+          "name": "Lucy Chebet",
           "comment": "I will most definitely recommend this platform to my friends",
           "rating": 5
         }
