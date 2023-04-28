@@ -1,37 +1,55 @@
-const form = document.querySelector('form');
-const nameInput = document.querySelector('#name-input');
-const emailInput = document.querySelector('#email-input');
-const phoneInput = document.querySelector('#phone-input');
-const messageInput = document.querySelector('#message-input');
-
-// add event listener to form submission
-form.addEventListener('submit', (event) => {
+function submitForm(event) {
+  // Prevent default form submission behavior
   event.preventDefault();
 
-  //Data object with input values
-  const data = {
-    name: nameInput.value,
-    email: emailInput.value,
-    phone: phoneInput.value,
-    message: messageInput.value
-  };
+  // Get the input fields and their values
+  const nameInput = document.getElementById('name-input');
+  const emailInput = document.getElementById('email-input');
+  const phoneInput = document.getElementById('phone-input');
+  const messageInput = document.getElementById('message-input');
+  const nameValue = nameInput.value;
+  const emailValue = emailInput.value;
+  const phoneValue = phoneInput.value;
+  const messageValue = messageInput.value;
 
-  console.log('submit event triggered');
-  // API call to send form data
-  fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify(data)
-  })
-  .then(response => response.json())
-  .then(data => {
-    console.log('Success:', data); //Message sent, yay:)
-    form.reset(); 
-    console.log('Form reset', data);
-  })
-  .catch((error) => {
-    console.error('Error:', error); //Catch error if message is not sent
+  // Reset the input field values
+  nameInput.value = '';
+  emailInput.value = '';
+  phoneInput.value = '';
+  messageInput.value = '';
+}
+
+  // Display success message
+  alert('Message sent!');
+
+// Add event listener to submit button
+const submitBtn = document.getElementById('submit-btn');
+submitBtn.addEventListener('click', submitForm);
+
+// Function to display the reviews
+fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/reviews')
+.then(response => response.json())
+.then(data => {
+  const reviewsList = document.getElementById('reviews-list');
+  data.forEach(review => {
+    const li = document.createElement('li');
+    li.innerHTML = `<h3 class="review-name">${review.name} - ${review.rating}</h3><p class="review-comment">${review.comment}</p>`;
+    reviewsList.appendChild(li);
   });
-});
+})
+.catch(error => console.error(error));
+
+// Function to display the reviews
+fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/reviews')
+.then(response => response.json())
+.then(data => {
+  const reviewsList = document.getElementById('reviews-list');
+  data.forEach(review => {
+    const li = document.createElement('li');
+    li.innerHTML = `<h3 class="review-name">${review.name} - ${review.rating}</h3><p class="review-comment">${review.comment}</p>`;
+    reviewsList.appendChild(li);
+  });
+})
+.catch(error => console.error(error));
+
+
