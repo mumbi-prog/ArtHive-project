@@ -1,35 +1,4 @@
 {
-    "afrocentric-art": [
-        {
-
-        }
-
-    ],
-
-    "digital-art": [
-        {
-
-        }
-    ],
-
-    "drawings":[
-        {
-
-        }
-    ],
-
-    "paintings":[
-        {
-
-        }
-    ],
-
-    "photography": [
-        {
-
-        }
-    ],
-
     "sculptures": [
         {
             
@@ -39,21 +8,21 @@
     "reviews": [
         {
           "id": 1,
-          "name": "John",
-          "comment": "This is a great product!",
+          "name": "Anita Mbotela",
+          "comment": "Got a painting. I love it!!",
           "rating": 5
         },
         {
           "id": 2,
-          "name": "Jane",
-          "comment": "I am very satisfied with this product.",
+          "name": "Kuria Andrew",
+          "comment": "Amazing but my sculpture had chipped a little",
           "rating": 4
         },
         {
           "id": 3,
           "name": "Bob",
-          "comment": "This product could be improved.",
-          "rating": 3
+          "comment": "I will most definitely recommend this platform to my friends",
+          "rating": 5
         }
       ]
 
