@@ -79,43 +79,22 @@
     <section class="art-vault" id="art-vault">
 			<h2>Welcome to the Art Vault</h2>
 			<p>We showcase a wide range of art pieces from different categories to satisfy your artistic cravings.</p>
-		<div class="art">
-			<div class="categories">
-				<div class="category">
-					<img src="images/afrocentric art/passion of art.jpg">
-					<h3>Afrocentric</h3>
-				</div>
-				<div class="category">
-					<img src="images/digital art/marshmallow hair.jpg">
-					<h3>Digital</h3>
-				</div>
-				<div class="category">
-					<img src="images/drawings/enam bokosah.jpg">
-					<h3>Portrait</h3>
-				</div>
-				<div class="category">
-					<img src="images/paintings/cherries.jpg">
-					<h3>Paintings</h3>
-				</div>
-				<div class="category">
-					<img src="images/photography/black and white.jpg">
-					<h3>Photography</h3>
-				</div>
-				<div class="category">
-					<img src="images/sculptures/black child figurines.jpg">
-					<h3>Sculptures</h3>
-				</div>
-			</div>
-      <form>
-				<label for="category-search">Search by category:</label>
-				<input type="text" id="category-search" name="category-search">
-				<button type="submit">Search</button>
-			</form>
-			<div class="art-pieces">
-				<!-- Art pieces will be dynamically loaded here -->
-			</div>
-		</section>
+      <input type="text" id="search-input" placeholder="Search by category">
+      <button id="search-button">Search</button>
+      <div id="gallery"></div>
+    </section>
     <!--art vault section ends-->
+
+    <!--reviews section starts-->
+    <div class="reviews" id="reviews">
+      <h2>Reviews</h2>
+        <ul id="reviews-list">
+          <!-- Reviews will be dynamically loaded here -->
+        </ul>
+    </div>
+    
+      
+    <!--reviews section ends-->
 
     <!--contact us section starts-->
     <div class="contact-container" id="contacts">
@@ -200,6 +179,8 @@
 
 
     <!--js-->
-    <script src="src/main.js"></script>
+    <script src="src/main.js">
+      
+    </script>
 </body>
 </html>
