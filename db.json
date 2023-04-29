@@ -2,40 +2,40 @@
     "categories": [
         {
             "name": "Digital Art",
-            "image": "..images/digital/hands.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/fishies.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "John Smith",
-                    "image": "..images/digital/parrots.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/parrots.jpg",
                     "description": "A beautiful green parrot.",
                     "price": 5000
                 },
                 {
                     "id": 2,
                     "artist": "Ann Kuria",
-                    "image": "..images/digital/donaldduck.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/donaldduck.jpg",
                     "description": "Donald Duck monied",
                     "price": 7000
                 },
                 {
                     "id": 3,
                     "artist": "John Smith",
-                    "image": "..images/digital/marshmallow.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/marshmallow.jpg",
                     "description": "Black girl marshmallow hair",
                     "price": 3500
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
-                    "image": "..images/digital/starrynight.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/starrynight.jpg",
                     "description": "Blue night and yellow stars",
                     "price": 20000
                 },
                 {
                     "id": 5,
                     "artist": "John Smith",
-                    "image": "..images/digital/shrooms.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/shrooms.jpg",
                     "description": "Big mushrooms",
                     "price": 8400
                 }
@@ -43,40 +43,40 @@
         },
         {
             "name": "Drawings",
-            "image": "..images/drawings/heal.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/heal.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "Enam",
-                    "image": "..images/drawings/enam.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/enam.jpg",
                     "description": "Enam ballpoint art",
                     "price": 2500
                 },
                 {
                     "id": 2,
                     "artist": "Jackson Matubia",
-                    "image": "..images/drawings/tiger.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/tiger.jpg",
                     "description": "Enam ballpoint art",
                     "price": 1930
                 },
                 {
                     "id": 3,
                     "artist": "Jackson Matubia",
-                    "image": "..images/drawings/train.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/train.jpg",
                     "description": "Enam ballpoint art",
                     "price": 5000
                 },
                 {
                     "id": 4,
                     "artist": "Enam",
-                    "image": "..images/drawings/enam.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/enam2.jpg",
                     "description": "Enam ballpoint art",
                     "price": 3000
                 },
                 {
                     "id": 5,
                     "artist": "Jackson Matubia",
-                    "image": "..images/drawings/enam.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/tortoise.jpg",
                     "description": "This is a tortoise art",
                     "price": 5000
                 }
@@ -84,40 +84,40 @@
         },
         {
             "name": "Afrocentric Art",
-            "image": "..images/afrocentric/passionofart.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/passionofart.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "Laki Naima",
-                    "image": "..images/afrocentric/beauty.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/beauty.jpg",
                     "description": "This is beauty right here",
                     "price": 6500
                 },
                 {
                     "id": 2,
                     "artist": "Laki Naima",
-                    "image": "..images/afrocentric/africa.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/africa.jpg",
                     "description": "Beauty of Africa",
                     "price": 5000
                 },
                 {
                     "id": 3,
                     "artist": "Laki Njenga",
-                    "image": "..images/afrocentric/blue.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/blue.jpg",
                     "description": "Times can be blue",
                     "price": 4000
                 },
                 {
                     "id": 4,
                     "artist": "Suzanna",
-                    "image": "..images/afrocentric/sunset.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/sunset.jpg",
                     "description": "Animals in the sunset",
                     "price": 4800
                 },
                 {
                     "id": 5,
                     "artist": "Suzanna",
-                    "image": "..images/afrocentric/walk.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/walk.jpg",
                     "description": "Long walk home",
                     "price": 3900
                 }
@@ -125,40 +125,40 @@
         },
         {
             "name": "Paintings",
-            "image": "..images/paintings/cherries.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/cherries.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "Davis Junior",
-                    "image": "..images/paintings/marble.jpg",
-                    "description": "These are cherries",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/marble.jpg",
+                    "description": "This is marble paint",
                     "price": 1200
                 },
                 {
                     "id": 2,
                     "artist": "Davis Junior",
-                    "image": "..images/paintings/lamar.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/lamar.jpg",
                     "description": "Lamar and flowers",
                     "price": 3900
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
-                    "image": "..images/paintings/panther.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/panther.jpg",
                     "description": "This is a black panther",
                     "price": 4900
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
-                    "image": "..images/paintings/dark.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/dark.jpg",
                     "description": "Black elite",
                     "price": 5000
                 },
                 {
                     "id": 5,
                     "artist": "Davis Junior",
-                    "image": "..images/paintings/girl.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/girl.jpg",
                     "description": "Girl and bird",
                     "price": 4000
                 }
@@ -166,40 +166,40 @@
         },
         {
             "name": "Photography",
-            "image": "..images/photography/doves.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/doves.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "Penn Bradley",
-                    "image": "..images/photography/coltrane.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/coltrane.jpg",
                     "description": "The legend Coltrane",
                     "price": 12000
                 },
                 {
                     "id": 2,
                     "artist": "Penn Bradley",
-                    "image": "..images/photography/hands.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/hands.jpg",
                     "description": "These are hands",
                     "price": 10000
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
-                    "image": "..images/photography/cute.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/cute.jpg",
                     "description": "Eyes that tell a story",
                     "price": 19000
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
-                    "image": "..images/photography/old.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/old.jpg",
                     "description": "Black and old",
                     "price": 27000
                 },
                 {
                     "id": 5,
                     "artist": "Clementine Arua",
-                    "image": "..images/photography/opp.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/opp.jpg",
                     "description": "Different but one",
                     "price": 25000
                 }
@@ -207,40 +207,40 @@
         },
         {
             "name": "Sculptures",
-            "image": "..images/sculptures/kids.jpg",
+            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/kids.jpg",
             "artItems": [
                 {
                     "id": 1,
                     "artist": "Denise Sofia",
-                    "image": "..images/sculptures/black.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/black.jpg",
                     "description": "Black court",
                     "price": 25000
                 },
                 {
                     "id": 2,
                     "artist": "Davis Junior",
-                    "image": "..images/sculptures/circle.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/circle.jpg",
                     "description": "Spiral Sulpture",
                     "price": 20000
                 },
                 {
                     "id": 3,
                     "artist": "Fredrick Koech",
-                    "image": "..images/sculptures/vase.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/vase.jpg",
                     "description": "This is a vase",
                     "price": 19000
                 },
                 {
                     "id": 4,
                     "artist": "Terry Mukami",
-                    "image": "..images/sculptures/think.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/kids.jpg",
                     "description": "The thinking thinker",
                     "price": 20000
                 },
                 {
                     "id": 5,
                     "artist": "Leila",
-                    "image": "..images/sculptures/aphrodite.jpg",
+                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/aphrodite.jpg",
                     "description": "The Goddess Aphrodite",
                     "price": 29000
                 }
