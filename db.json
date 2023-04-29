@@ -8,31 +8,36 @@
                     "id": 1,
                     "artist": "John Smith",
                     "image": "..images/digital/parrots.jpg",
-                    "description": "A beautiful green parrot."
+                    "description": "A beautiful green parrot.",
+                    "price": 5000
                 },
                 {
                     "id": 2,
                     "artist": "Ann Kuria",
                     "image": "..images/digital/donaldduck.jpg",
-                    "description": "Donald Duck monied"
+                    "description": "Donald Duck monied",
+                    "price": 7000
                 },
                 {
                     "id": 3,
                     "artist": "John Smith",
                     "image": "..images/digital/marshmallow.jpg",
-                    "description": "Black girl marshmallow hair"
+                    "description": "Black girl marshmallow hair",
+                    "price": 3500
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
                     "image": "..images/digital/starrynight.jpg",
-                    "description": "Blue night and yellow stars"
+                    "description": "Blue night and yellow stars",
+                    "price": 20000
                 },
                 {
                     "id": 5,
                     "artist": "John Smith",
                     "image": "..images/digital/shrooms.jpg",
-                    "description": "Big mushrooms"
+                    "description": "Big mushrooms",
+                    "price": 8400
                 }
             ]
         },
@@ -44,31 +49,36 @@
                     "id": 1,
                     "artist": "Enam",
                     "image": "..images/drawings/enam.jpg",
-                    "description": "Enam ballpoint art"
+                    "description": "Enam ballpoint art",
+                    "price": 2500
                 },
                 {
                     "id": 2,
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/tiger.jpg",
-                    "description": "Enam ballpoint art"
+                    "description": "Enam ballpoint art",
+                    "price": 1930
                 },
                 {
                     "id": 3,
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/train.jpg",
-                    "description": "Enam ballpoint art"
+                    "description": "Enam ballpoint art",
+                    "price": 5000
                 },
                 {
                     "id": 4,
                     "artist": "Enam",
                     "image": "..images/drawings/enam.jpg",
-                    "description": "Enam ballpoint art"
+                    "description": "Enam ballpoint art",
+                    "price": 3000
                 },
                 {
                     "id": 5,
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/enam.jpg",
-                    "description": "This is a tortoise art"
+                    "description": "This is a tortoise art",
+                    "price": 5000
                 }
             ]
         },
@@ -80,31 +90,36 @@
                     "id": 1,
                     "artist": "Laki Naima",
                     "image": "..images/afrocentric/beauty.jpg",
-                    "description": "This is beauty right here"
+                    "description": "This is beauty right here",
+                    "price": 6500
                 },
                 {
                     "id": 2,
                     "artist": "Laki Naima",
                     "image": "..images/afrocentric/africa.jpg",
-                    "description": "Beauty of Africa"
+                    "description": "Beauty of Africa",
+                    "price": 5000
                 },
                 {
                     "id": 3,
                     "artist": "Laki Njenga",
                     "image": "..images/afrocentric/blue.jpg",
-                    "description": "Times can be blue"
+                    "description": "Times can be blue",
+                    "price": 4000
                 },
                 {
                     "id": 4,
                     "artist": "Suzanna",
                     "image": "..images/afrocentric/sunset.jpg",
-                    "description": "Animals in the sunset"
+                    "description": "Animals in the sunset",
+                    "price": 4800
                 },
                 {
                     "id": 5,
                     "artist": "Suzanna",
                     "image": "..images/afrocentric/walk.jpg",
-                    "description": "Long walk home"
+                    "description": "Long walk home",
+                    "price": 3900
                 }
             ]
         },
@@ -116,31 +131,36 @@
                     "id": 1,
                     "artist": "Davis Junior",
                     "image": "..images/paintings/marble.jpg",
-                    "description": "These are cherries"
+                    "description": "These are cherries",
+                    "price": 1200
                 },
                 {
                     "id": 2,
                     "artist": "Davis Junior",
                     "image": "..images/paintings/lamar.jpg",
-                    "description": "Lamar and flowers"
+                    "description": "Lamar and flowers",
+                    "price": 3900
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
                     "image": "..images/paintings/panther.jpg",
-                    "description": "This is a black panther"
+                    "description": "This is a black panther",
+                    "price": 4900
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
                     "image": "..images/paintings/dark.jpg",
-                    "description": "Black elite"
+                    "description": "Black elite",
+                    "price": 5000
                 },
                 {
                     "id": 5,
                     "artist": "Davis Junior",
                     "image": "..images/paintings/girl.jpg",
-                    "description": "Girl and bird"
+                    "description": "Girl and bird",
+                    "price": 4000
                 }
             ]
         },
@@ -152,31 +172,36 @@
                     "id": 1,
                     "artist": "Penn Bradley",
                     "image": "..images/photography/coltrane.jpg",
-                    "description": "The legend Coltrane"
+                    "description": "The legend Coltrane",
+                    "price": 12000
                 },
                 {
                     "id": 2,
                     "artist": "Penn Bradley",
                     "image": "..images/photography/hands.jpg",
-                    "description": "These are hands"
+                    "description": "These are hands",
+                    "price": 10000
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
                     "image": "..images/photography/cute.jpg",
-                    "description": "Eyes that tell a story"
+                    "description": "Eyes that tell a story",
+                    "price": 19000
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
                     "image": "..images/photography/old.jpg",
-                    "description": "Black and old"
+                    "description": "Black and old",
+                    "price": 27000
                 },
                 {
                     "id": 5,
                     "artist": "Clementine Arua",
                     "image": "..images/photography/opp.jpg",
-                    "description": "Different but one"
+                    "description": "Different but one",
+                    "price": 25000
                 }
             ]
         },
@@ -188,31 +213,36 @@
                     "id": 1,
                     "artist": "Denise Sofia",
                     "image": "..images/sculptures/black.jpg",
-                    "description": "Black court"
+                    "description": "Black court",
+                    "price": 25000
                 },
                 {
                     "id": 2,
                     "artist": "Davis Junior",
                     "image": "..images/sculptures/circle.jpg",
-                    "description": "Spiral Sulpture"
+                    "description": "Spiral Sulpture",
+                    "price": 20000
                 },
                 {
                     "id": 3,
                     "artist": "Fredrick Koech",
                     "image": "..images/sculptures/vase.jpg",
-                    "description": "This is a vase"
+                    "description": "This is a vase",
+                    "price": 19000
                 },
                 {
                     "id": 4,
                     "artist": "Terry Mukami",
                     "image": "..images/sculptures/think.jpg",
-                    "description": "The thinking thinker"
+                    "description": "The thinking thinker",
+                    "price": 20000
                 },
                 {
                     "id": 5,
                     "artist": "Leila",
                     "image": "..images/sculptures/aphrodite.jpg",
-                    "description": "The Goddess Aphrodite"
+                    "description": "The Goddess Aphrodite",
+                    "price": 29000
                 }
             ]
         }
