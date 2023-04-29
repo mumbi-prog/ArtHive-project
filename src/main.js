@@ -11,11 +11,6 @@ fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/categories
         const categoryDiv = document.createElement('div');
         categoryDiv.className = 'art-category';
 
-        const categoryImg = document.createElement('img');
-        categoryImg.src = category.image;
-        categoryImg.alt = category.name;
-        categoryDiv.appendChild(categoryImg);
-
         const categoryName = document.createElement('h3');
         categoryName.textContent = category.name;
         categoryDiv.appendChild(categoryName);
@@ -27,6 +22,7 @@ fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/categories
           const itemImg = document.createElement('img');
           itemImg.src = item.image;
           itemImg.alt = item.description;
+          itemImg.classList.add('art-item-img'); 
           itemDiv.appendChild(itemImg);
 
           const itemDesc = document.createElement('p');
@@ -40,6 +36,13 @@ fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/categories
           const itemPrice = document.createElement('p');
           itemPrice.textContent = `Price: Ksh. ${item.price}`;
           itemDiv.appendChild(itemPrice);
+
+          const likeBtn = document.createElement('button');
+          likeBtn.className = 'like-btn bx bx-like';
+          likeBtn.addEventListener('click', () => {
+            likeBtn.classList.toggle('bx-filled');
+          });
+          itemDiv.appendChild(likeBtn);
 
           categoryDiv.appendChild(itemDiv);
         });
