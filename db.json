@@ -2,7 +2,6 @@
     "categories": [
         {
             "name": "Digital Art",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/fishies.jpg",
             "artItems": [
                 {
                     "id": 1,
@@ -43,7 +42,6 @@
         },
         {
             "name": "Drawings",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/heal.jpg",
             "artItems": [
                 {
                     "id": 1,
@@ -84,7 +82,6 @@
         },
         {
             "name": "Afrocentric Art",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/passionofart.jpg",
             "artItems": [
                 {
                     "id": 1,
@@ -125,7 +122,6 @@
         },
         {
             "name": "Paintings",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/cherries.jpg",
             "artItems": [
                 {
                     "id": 1,
@@ -166,7 +162,6 @@
         },
         {
             "name": "Photography",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/doves.jpg",
             "artItems": [
                 {
                     "id": 1,
@@ -207,7 +202,6 @@
         },
         {
             "name": "Sculptures",
-            "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/kids.jpg",
             "artItems": [
                 {
                     "id": 1,
