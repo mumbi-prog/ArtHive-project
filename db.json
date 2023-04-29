@@ -6,35 +6,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Parrot",
                     "artist": "John Smith",
                     "image": "..images/digital/parrots.jpg",
                     "description": "A beautiful green parrot."
                 },
                 {
                     "id": 2,
-                    "title": "Donald Duck",
                     "artist": "Ann Kuria",
                     "image": "..images/digital/donaldduck.jpg",
                     "description": "Donald Duck monied"
                 },
                 {
                     "id": 3,
-                    "title": "Marshmallow",
                     "artist": "John Smith",
                     "image": "..images/digital/marshmallow.jpg",
                     "description": "Black girl marshmallow hair"
                 },
                 {
                     "id": 4,
-                    "title": "Starry Night",
                     "artist": "Clide Orai",
                     "image": "..images/digital/starrynight.jpg",
                     "description": "Blue night and yellow stars"
                 },
                 {
                     "id": 5,
-                    "title": "Mushrooms",
                     "artist": "John Smith",
                     "image": "..images/digital/shrooms.jpg",
                     "description": "Big mushrooms"
@@ -47,35 +42,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Enam",
                     "artist": "Enam",
                     "image": "..images/drawings/enam.jpg",
                     "description": "Enam ballpoint art"
                 },
                 {
                     "id": 2,
-                    "title": "Tiger",
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/tiger.jpg",
                     "description": "Enam ballpoint art"
                 },
                 {
                     "id": 3,
-                    "title": "Train",
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/train.jpg",
                     "description": "Enam ballpoint art"
                 },
                 {
                     "id": 4,
-                    "title": "Enam",
                     "artist": "Enam",
                     "image": "..images/drawings/enam.jpg",
                     "description": "Enam ballpoint art"
                 },
                 {
                     "id": 5,
-                    "title": "Tortoise",
                     "artist": "Jackson Matubia",
                     "image": "..images/drawings/enam.jpg",
                     "description": "This is a tortoise art"
@@ -88,35 +78,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Beauty",
                     "artist": "Laki Naima",
                     "image": "..images/afrocentric/beauty.jpg",
                     "description": "This is beauty right here"
                 },
                 {
                     "id": 2,
-                    "title": "Africa",
                     "artist": "Laki Naima",
                     "image": "..images/afrocentric/africa.jpg",
                     "description": "Beauty of Africa"
                 },
                 {
                     "id": 3,
-                    "title": "Blue",
                     "artist": "Laki Njenga",
                     "image": "..images/afrocentric/blue.jpg",
                     "description": "Times can be blue"
                 },
                 {
                     "id": 4,
-                    "title": "Wildlife",
                     "artist": "Suzanna",
                     "image": "..images/afrocentric/sunset.jpg",
                     "description": "Animals in the sunset"
                 },
                 {
                     "id": 5,
-                    "title": "Walk",
                     "artist": "Suzanna",
                     "image": "..images/afrocentric/walk.jpg",
                     "description": "Long walk home"
@@ -129,35 +114,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Cherries",
                     "artist": "Davis Junior",
                     "image": "..images/paintings/marble.jpg",
                     "description": "These are cherries"
                 },
                 {
                     "id": 2,
-                    "title": "Lamar",
                     "artist": "Davis Junior",
                     "image": "..images/paintings/lamar.jpg",
                     "description": "Lamar and flowers"
                 },
                 {
                     "id": 3,
-                    "title": "Panther",
                     "artist": "Davis Junior",
                     "image": "..images/paintings/panther.jpg",
                     "description": "This is a black panther"
                 },
                 {
                     "id": 4,
-                    "title": "Dark",
                     "artist": "Clide Orai",
                     "image": "..images/paintings/dark.jpg",
                     "description": "Black elite"
                 },
                 {
                     "id": 5,
-                    "title": "Girl",
                     "artist": "Davis Junior",
                     "image": "..images/paintings/girl.jpg",
                     "description": "Girl and bird"
@@ -170,35 +150,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Coltrane",
                     "artist": "Penn Bradley",
                     "image": "..images/photography/coltrane.jpg",
                     "description": "The legend Coltrane"
                 },
                 {
                     "id": 2,
-                    "title": "Hands",
                     "artist": "Penn Bradley",
                     "image": "..images/photography/hands.jpg",
                     "description": "These are hands"
                 },
                 {
                     "id": 3,
-                    "title": "Child",
                     "artist": "Davis Junior",
                     "image": "..images/photography/cute.jpg",
                     "description": "Eyes that tell a story"
                 },
                 {
                     "id": 4,
-                    "title": "Old couple",
                     "artist": "Clide Orai",
                     "image": "..images/photography/old.jpg",
                     "description": "Black and old"
                 },
                 {
                     "id": 5,
-                    "title": "Races",
                     "artist": "Clementine Arua",
                     "image": "..images/photography/opp.jpg",
                     "description": "Different but one"
@@ -211,35 +186,30 @@
             "artItems": [
                 {
                     "id": 1,
-                    "title": "Chess",
                     "artist": "Denise Sofia",
                     "image": "..images/sculptures/black.jpg",
                     "description": "Black court"
                 },
                 {
                     "id": 2,
-                    "title": "Spiral",
                     "artist": "Davis Junior",
                     "image": "..images/sculptures/circle.jpg",
                     "description": "Spiral Sulpture"
                 },
                 {
                     "id": 3,
-                    "title": "Vase",
                     "artist": "Fredrick Koech",
                     "image": "..images/sculptures/vase.jpg",
                     "description": "This is a vase"
                 },
                 {
                     "id": 4,
-                    "title": "Overthinking",
                     "artist": "Terry Mukami",
                     "image": "..images/sculptures/think.jpg",
                     "description": "The thinking thinker"
                 },
                 {
                     "id": 5,
-                    "title": "Pink Aphrodite",
                     "artist": "Leila",
                     "image": "..images/sculptures/aphrodite.jpg",
                     "description": "The Goddess Aphrodite"
