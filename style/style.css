@@ -254,6 +254,32 @@ section{
 /*about styling completed*/
 
 /*art vault*/
+.search-button{
+    width: 200px;
+}
+
+.gallery{
+    display: flex;
+}
+
+.art-items-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 40px; 
+}
+  
+
+.art-item {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.art-category{
+    font-size: 25px;
+    margin: 20px;
+}
 .art-vault h2{
     font-family: 'Pacifico', cursive;
     font-size: 50px;
@@ -275,9 +301,9 @@ section{
 }
 
 .art-item img {
-    width: 300px;
+    width: 250px;
     height: 250px;
-    object-fit: cover;
+    border-radius: 20px;
 }
 
 .bx-like.bx-filled {

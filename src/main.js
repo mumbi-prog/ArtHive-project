@@ -4,52 +4,61 @@ fetch('https://my-json-server.typicode.com/mumbi-prog/ArtHive-project/categories
     const gallery = document.getElementById('gallery');
     let filteredData = data;
 
-    const renderGallery = () => {
-      gallery.innerHTML = '';
 
-      filteredData.forEach(category => {
-        const categoryDiv = document.createElement('div');
-        categoryDiv.className = 'art-category';
+const renderGallery = () => {
+  gallery.innerHTML = '';
 
-        const categoryName = document.createElement('h3');
-        categoryName.textContent = category.name;
-        categoryDiv.appendChild(categoryName);
+  filteredData.forEach(category => {
+    const categoryDiv = document.createElement('div');
+    categoryDiv.className = 'art-category';
 
-        category.artItems.forEach(item => {
-          const itemDiv = document.createElement('div');
-          itemDiv.className = 'art-item';
+    const categoryName = document.createElement('h3');
+    categoryName.textContent = category.name;
+    categoryDiv.appendChild(categoryName);
 
-          const itemImg = document.createElement('img');
-          itemImg.src = item.image;
-          itemImg.alt = item.description;
-          itemImg.classList.add('art-item-img'); 
-          itemDiv.appendChild(itemImg);
+    const itemsContainer = document.createElement('div');
+    itemsContainer.className = 'art-items-grid';
 
-          const itemDesc = document.createElement('p');
-          itemDesc.textContent = item.description;
-          itemDiv.appendChild(itemDesc);
+    category.artItems.forEach(item => {
+      const itemDiv = document.createElement('div');
+      itemDiv.className = 'art-item';
 
-          const itemArtist = document.createElement('p');
-          itemArtist.textContent = `Artist: ${item.artist}`;
-          itemDiv.appendChild(itemArtist);
+      const itemImg = document.createElement('img');
+      itemImg.src = item.image;
+      itemImg.alt = item.description;
+      itemImg.classList.add('art-item-img');
+      itemDiv.appendChild(itemImg);
 
-          const itemPrice = document.createElement('p');
-          itemPrice.textContent = `Price: Ksh. ${item.price}`;
-          itemDiv.appendChild(itemPrice);
+      const itemDesc = document.createElement('p');
+      itemDesc.textContent = item.description;
+      itemDesc.classList.add('art-item-desc');
+      itemDiv.appendChild(itemDesc);
 
-          const likeBtn = document.createElement('button');
-          likeBtn.className = 'like-btn bx bx-like';
-          likeBtn.addEventListener('click', () => {
-            likeBtn.classList.toggle('bx-filled');
-          });
-          itemDiv.appendChild(likeBtn);
+      const itemArtist = document.createElement('p');
+      itemArtist.textContent = `Artist: ${item.artist}`;
+      itemDiv.appendChild(itemArtist);
 
-          categoryDiv.appendChild(itemDiv);
-        });
+      const itemPrice = document.createElement('p');
+      itemPrice.textContent = `Price: Ksh. ${item.price}`;
+      itemDiv.appendChild(itemPrice);
 
-        gallery.appendChild(categoryDiv);
+      const likeBtn = document.createElement('button');
+      likeBtn.className = 'like-btn bx bx-like';
+      likeBtn.addEventListener('click', () => {
+        likeBtn.classList.toggle('bx-filled');
       });
-    };
+      itemDiv.appendChild(likeBtn);
+
+ 
+      itemsContainer.appendChild(itemDiv);
+    });
+
+   
+    categoryDiv.appendChild(itemsContainer);
+
+    gallery.appendChild(categoryDiv);
+  });
+};
 
     renderGallery();
 

@@ -6,8 +6,8 @@
                 {
                     "id": 1,
                     "artist": "John Smith",
-                    "image": "https://i.pinimg.com/564x/51/38/33/5138334a51534d0d3a20aeaebc57658a.jpg",
-                    "description": "A beautifulrainbow parrot.",
+                    "image": "https://i.pinimg.com/564x/d5/5d/ae/d55daea2622dece51d8a85ba99019fc0.jpg",
+                    "description": "Vibrant",
                     "price": 5000
                 },
                 {
@@ -86,7 +86,7 @@
                 {
                     "id": 3,
                     "artist": "Tretchikoff Vladimir",
-                    "image": "https://i.pinimg.com/564x/8b/17/a9/8b17a9dc6f0aaa71e85b6d44cf4d3f4b.jpgg",
+                    "image": "https://i.pinimg.com/564x/8b/17/a9/8b17a9dc6f0aaa71e85b6d44cf4d3f4b.jpg",
                     "description": "Kwela boy",
                     "price": 4000
                 }
