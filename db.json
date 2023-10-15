@@ -6,35 +6,35 @@
                 {
                     "id": 1,
                     "artist": "John Smith",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/parrots.jpg",
-                    "description": "A beautiful green parrot.",
+                    "image": "https://i.pinimg.com/564x/51/38/33/5138334a51534d0d3a20aeaebc57658a.jpg",
+                    "description": "A beautifulrainbow parrot.",
                     "price": 5000
                 },
                 {
                     "id": 2,
                     "artist": "Ann Kuria",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/donaldduck.jpg",
-                    "description": "Donald Duck monied",
+                    "image": "https://i.pinimg.com/564x/6a/6e/88/6a6e88c44176a95641f145b4744047b3.jpg",
+                    "description": "Sir Donald",
                     "price": 7000
                 },
                 {
                     "id": 3,
                     "artist": "John Smith",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/marshmallow.jpg",
-                    "description": "Black girl marshmallow hair",
+                    "image": "https://i.pinimg.com/564x/99/4d/1c/994d1c285c00ba7b1359a7edb8312af9.jpg",
+                    "description": "The sailboat sail",
                     "price": 3500
                 },
                 {
                     "id": 4,
                     "artist": "Clide Orai",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/starrynight.jpg",
-                    "description": "Blue night and yellow stars",
+                    "image": "https://i.pinimg.com/564x/12/79/65/127965bc0664ebf793e65040b96bb4b3.jpg",
+                    "description": "The Starry Night",
                     "price": 20000
                 },
                 {
                     "id": 5,
                     "artist": "John Smith",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/digital/shrooms.jpg",
+                    "image": "https://i.pinimg.com/736x/fe/95/93/fe95937a80664ecc848f37b33824869c.jpg",
                     "description": "Big mushrooms",
                     "price": 8400
                 }
@@ -46,22 +46,22 @@
                 {
                     "id": 1,
                     "artist": "Enam",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/enam.jpg",
-                    "description": "Enam ballpoint art",
+                    "image": "https://i.pinimg.com/564x/bb/89/40/bb8940642c5da767d7c8eaea5b6304af.jpg",
+                    "description": "Malcolm X",
                     "price": 2500
                 },
                 {
                     "id": 2,
                     "artist": "Jackson Matubia",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/tiger.jpg",
-                    "description": "Enam ballpoint art",
+                    "image": "https://i.pinimg.com/564x/98/19/f0/9819f0653ca55778a1424cad0ddf3139.jpg",
+                    "description": "Oak tree, Heligan",
                     "price": 1930
                 },
                 {
                     "id": 3,
-                    "artist": "Jackson Matubia",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/drawings/train.jpg",
-                    "description": "Enam ballpoint art",
+                    "artist": "Gary Hodges",
+                    "image": "https://i.pinimg.com/564x/97/3c/07/973c07a9d93277e5121f74b4a4b16aa9.jpg",
+                    "description": "Elephant",
                     "price": 5000
                 }
             ]
@@ -71,23 +71,23 @@
             "artItems": [
                 {
                     "id": 1,
-                    "artist": "Laki Naima",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/beauty.jpg",
-                    "description": "This is beauty right here",
+                    "artist": "Humble Homage",
+                    "image": "https://i.pinimg.com/564x/1c/67/77/1c6777032da0f59a6e6defb1e0a03b6a.jpg",
+                    "description": "Unified minds",
                     "price": 6500
                 },
                 {
                     "id": 2,
-                    "artist": "Laki Naima",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/africa.jpg",
-                    "description": "Beauty of Africa",
+                    "artist": "Humble Homage",
+                    "image": "https://i.pinimg.com/564x/c0/95/cf/c095cfa96669bff797ce924756213aee.jpg",
+                    "description": "Africa's splendor",
                     "price": 5000
                 },
                 {
                     "id": 3,
-                    "artist": "Laki Njenga",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/afrocentric/sunset.jpg",
-                    "description": "Long walk home",
+                    "artist": "Tretchikoff Vladimir",
+                    "image": "https://i.pinimg.com/564x/8b/17/a9/8b17a9dc6f0aaa71e85b6d44cf4d3f4b.jpgg",
+                    "description": "Kwela boy",
                     "price": 4000
                 }
             ]
@@ -98,22 +98,22 @@
                 {
                     "id": 1,
                     "artist": "Davis Junior",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/marble.jpg",
-                    "description": "This is marble paint",
+                    "image": "https://i.pinimg.com/564x/14/0e/d8/140ed82723f84fd9914c8da51508b1ad.jpg",
+                    "description": "Marble Texture",
                     "price": 1200
                 },
                 {
                     "id": 2,
-                    "artist": "Davis Junior",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/lamar.jpg",
-                    "description": "Lamar and flowers",
+                    "artist": "Olena Leus",
+                    "image": "https://i.pinimg.com/564x/d8/ad/a7/d8ada7fdf2432ed7d5e7d7992ad7425d.jpg",
+                    "description": "Vertical sunflowers",
                     "price": 3900
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/paintings/panther.jpg",
-                    "description": "This is a black panther",
+                    "image": "https://i.pinimg.com/564x/53/26/9e/53269e82d94627e7ff14734e6c0d5d54.jpg",
+                    "description": "Swan painting",
                     "price": 4900
                 }
             ]
@@ -124,22 +124,22 @@
                 {
                     "id": 1,
                     "artist": "Penn Bradley",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/coltrane.jpg",
+                    "image": "https://i.pinimg.com/564x/b2/ab/ae/b2abaea21dc1227818b30b1b52d843b6.jpg",
                     "description": "The legend Coltrane",
                     "price": 12000
                 },
                 {
                     "id": 2,
-                    "artist": "Penn Bradley",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/opp.jpg",
-                    "description": "Different but one",
+                    "artist": "Penny",
+                    "image": "https://i.pinimg.com/564x/ae/21/4f/ae214fb747ada37483f9226d9705aee8.jpg",
+                    "description": "Alpe Di Siusi",
                     "price": 10000
                 },
                 {
                     "id": 3,
                     "artist": "Davis Junior",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/photography/cute.jpg",
-                    "description": "Eyes that tell a story",
+                    "image": "https://i.pinimg.com/564x/bd/b6/ba/bdb6ba33304b2fe72c18f37049c4638c.jpg",
+                    "description": "Greece ruins pillars",
                     "price": 19000
                 }
             ]
@@ -149,23 +149,23 @@
             "artItems": [
                 {
                     "id": 1,
-                    "artist": "Denise Sofia",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/black.jpg",
-                    "description": "Black court",
+                    "artist": "Dennis Marley",
+                    "image": "https://i.pinimg.com/564x/c2/37/e2/c237e2563e9d630df1c33b9d2e139b71.jpg",
+                    "description": "Mushroom corals",
                     "price": 25000
                 },
                 {
                     "id": 2,
                     "artist": "Fredrick Koech",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/vase.jpg",
-                    "description": "This is a vase",
+                    "image": "https://i.pinimg.com/564x/b7/92/d7/b792d7fa16b0a6426e24d282bcd1a7fc.jpg",
+                    "description": "Natura ceramica",
                     "price": 19000
                 },
                 {
                     "id": 3,
-                    "artist": "Leila",
-                    "image": "https://github.com/mumbi-prog/ArtHive-project/blob/main/images/sculptures/aphrodite.jpg",
-                    "description": "The Goddess Aphrodite",
+                    "artist": "Nick Mackman",
+                    "image": "https://i.pinimg.com/564x/37/a0/1a/37a01a65aac7edea6cedc003d860693b.jpg",
+                    "description": "African elephant",
                     "price": 29000
                 }
             ]
