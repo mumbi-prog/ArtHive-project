@@ -276,7 +276,7 @@ section{
 
 .art-item img {
     width: 300px;
-    height: auto;
+    height: 250px;
     object-fit: cover;
 }
 
